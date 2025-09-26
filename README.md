@@ -1,0 +1,1 @@
+This project is an intelligent FAQ assistant built with Streamlit, LangChain, and FAISS. It leverages the Google Gemini LLM and Instructor embeddings (hkunlp/instructor-large) to provide accurate, context-based answers from your EdTech knowledge base. Users can upload CSV FAQs, create a vectorized knowledge base, and ask questions via a clean, interactive web interface.
